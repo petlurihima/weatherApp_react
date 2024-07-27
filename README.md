@@ -13,7 +13,7 @@ WeatherApp is a web application that provides weather forecasts for any city. Bu
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/weatherapp.git
+    git clone https://github.com/petlurihima/weatherApp_react
     cd weatherapp
     ```
 
