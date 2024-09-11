@@ -1,6 +1,6 @@
 ## Live Demo
 
-You can view the live application [here]((https://weatherapp-react-gj8r.onrender.com)).
+You can view the live application [here](https://weatherapp-react-gj8r.onrender.com).
 
 # WeatherApp
 
